@@ -1,1 +1,0 @@
-schtasks /create /tn "Daily Shutdown" /tr "shutdown.exe /s /t 0" /sc daily /st 16:30:00

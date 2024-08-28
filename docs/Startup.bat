@@ -1,1 +1,0 @@
-schtasks /create /tn "Daily Startup" /tr "C:\working-directory\powershell\Startup.bat" /sc daily /st 08:00:00
